@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WesAub
+- 👋 Hi, I’m Wesley Aubynn
 - 👀 I’m interested in software development 
 - 🌱 I’m currently studying computer engineering, and working on builidng my skills in python and c++
 - 💞️ I’m looking to collaborate on building projects using python and c++
